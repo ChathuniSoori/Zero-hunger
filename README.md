@@ -1,0 +1,1 @@
+Welcome to the Zero Hunger webpage project! This project is a collaborative effort aimed at raising awareness about global hunger and promoting solutions to achieve zero hunger worldwide. The webpage is designed using HTML, CSS, and JavaScript, providing an engaging and informative user experience.
